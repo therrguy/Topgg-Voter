@@ -1,4 +1,4 @@
-# [Topgg Voter](https://github.com/Luffy909/Topgg-Voter)
+# [Topgg Voter](https://discord.gg/HFZRWUC)
 
   
 
@@ -65,7 +65,8 @@ $ node index.js
   
 ## Problems, Bugs and Suggestions
 
-in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/Luffy909/Topgg-Voter/issues/new) 
-and i will fix and your suggetions 
+in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/Luffy909/Topgg-Voter/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
 
-## Luffy99 All rights reserved.
+and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
+
+## Luffy99 (https://discord.gg/HFZRWUC) All rights reserved.
