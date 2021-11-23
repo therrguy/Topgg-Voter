@@ -1,0 +1,29 @@
+{
+  "name": "topgg-voter",
+  "version": "1.0.0",
+  "description": "A automatic top.gg bots voter ",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "puppeteer": "^5.4.1",
+    "puppeteer-extra": "^3.1.13",
+    "user-agents": "^1.0.844"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luffy909/Topgg-Voter.git"
+  },
+  "keywords": [
+    "topgg",
+    "topggvoter"
+  ],
+  "author": "_Luffy99#7907 (https://github.com/Luffy909/Topgg-Voter)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luffy909/Topgg-Voter/issues"
+  },
+  "homepage": "https://github.com/Luffy909/Topgg-Voter#readme"
+}
