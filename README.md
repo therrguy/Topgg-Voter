@@ -14,7 +14,7 @@
 
 ```bash
 
-$ git clone https://github.com/Luffy909/Topgg-Voter.git
+$ git clone https://github.com/therrguy/Topgg-Voter.git
 
 ```
 
@@ -64,8 +64,8 @@ $ node index.js
   
   
 ## Problems, Bugs and Suggestions
-
-in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/Luffy909/Topgg-Voter/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
+t
+in case you saw any Problems, Bugs and Suggestions you can tell me in the [issues](https://github.com/therrguy/Topgg-Voter/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
 
 and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
 
